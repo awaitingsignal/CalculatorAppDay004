@@ -3,5 +3,7 @@
     <color name="buttonNormal">#673AB7</color>
     <color name="buttonSpecial">#FFC107</color>
     <color name="buttonAlt">#0FA81A</color>
+    <color name="buttonAlt2">#67CA6F</color>
     <color name="buttonStandard">#B495FC</color>
+    <color name="buttonNull">#8A53FF</color>
 </resources>
