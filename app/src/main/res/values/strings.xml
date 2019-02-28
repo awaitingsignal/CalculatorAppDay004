@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">CalculatorAppDay004</string>
+    <string name="app_name">Calculator</string>
+    <color name="buttonNormal">#673AB7</color>
+    <color name="buttonSpecial">#FFC107</color>
+    <color name="buttonAlt">#0FA81A</color>
+    <color name="buttonStandard">#B495FC</color>
 </resources>
